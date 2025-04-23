@@ -38,4 +38,4 @@ This repository is licensed under the [MIT License](LICENSE).
 
 ## 📬 Contact
 
-For any inquiries or suggestions, please contact us at [contact@mcpsdirectory.com](mailto:contact@mcpsdirectory.com).
+For any inquiries or suggestions, please contact us at [nabinkhair](mailto:nabinkhair12@gmail.com).
